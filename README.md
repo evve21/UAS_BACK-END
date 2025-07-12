@@ -1,8 +1,6 @@
  UAS Back-End Development
 
  👨‍💻 Pembuat Proyek
-Proyek ini dibuat oleh empat mahasiswa sebagai bagian dari tugas UAS Back-End Development:
-
 [Dunstan Devon] – [220040009]
 [James Muda Rido] – [230040158]
 [Kshatria Do Fachoi ZIDUHU Wau] – [230040135]
