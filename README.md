@@ -3,10 +3,10 @@
  👨‍💻 Pembuat Proyek
 Proyek ini dibuat oleh empat mahasiswa sebagai bagian dari tugas UAS Back-End Development:
 
-1. [Dunstan Devon] – [220040009]  
-2. [Nama Lengkap 2] – [NIM 2]  
-3. [Nama Lengkap 3] – [NIM 3]  
-4. [Nama Lengkap 4] – [NIM 4]  
+[Dunstan Devon] – [220040009]
+[James Muda Rido] – [230040158]
+[Kshatria Do Fachoi ZIDUHU Wau] – [230040135]
+
 
  📦 Deskripsi Proyek
 Repositori ini berisi kode back-end menggunakan PHP Native untuk menangani API otentikasi dan manajemen data mahasiswa. API ini menggunakan JWT (JSON Web Token) untuk autentikasi, serta menerapkan proteksi middleware pada setiap endpoint.
